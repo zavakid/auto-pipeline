@@ -65,7 +65,7 @@
 
 		<netty.version>4.1.110.Final</netty.version>
 
-		<kotlin.version>1.9.23</kotlin.version>
+		<kotlin.version>2.1.0</kotlin.version>
 		<!-- https://kotlinlang.org/docs/maven.html#specifying-compiler-options -->
 		<kotlin.compiler.apiVersion>1.9</kotlin.compiler.apiVersion>
 		<kotlin.compiler.jvmTarget>${maven.compiler.source}</kotlin.compiler.jvmTarget>
