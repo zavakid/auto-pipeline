@@ -69,7 +69,7 @@
 		<!-- https://kotlinlang.org/docs/maven.html#specifying-compiler-options -->
 		<kotlin.compiler.apiVersion>1.9</kotlin.compiler.apiVersion>
 		<kotlin.compiler.jvmTarget>${maven.compiler.source}</kotlin.compiler.jvmTarget>
-		<dokka.version>1.9.20</dokka.version>
+		<dokka.version>2.0.0</dokka.version>
 		<dokka.link.jdk.version>8</dokka.link.jdk.version>
 
 		<!-- testing dependencies versions -->
